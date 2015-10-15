@@ -461,6 +461,8 @@ SELECT * FROM #MonthVolumn WHERE WorkflowRequirementID = 490;
 
 --SELECT DATEDIFF(second, '2009-12-08 09:32:43.863', '2009-12-08 11:49:51.733' );
 
---SELECT * FROM BIAtlas..UserDim WHERE SRCTeamLeaderUserId is not NULL and LastName = 'Zhang' and FirstName = 'Jiao'; 
+--SELECT * FROM BIAtlas..UserDim WHERE SRCTeamLeaderUserId is not NULL and LastName = 'Zhang' and FirstName = 'Jiao';
+
+
 --#############################################################################################################
 --TEST USE ########################################################################################### TEST USE
